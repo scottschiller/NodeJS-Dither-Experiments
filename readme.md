@@ -6,9 +6,9 @@ An experiment in batch-processing series of still frames exported from movies, w
 This is a bit laborious in terms of the process, relying on exporting hundreds/thousands of still frames, processing from the command-line, and then making new movies. Did I mention it's experimental? ;)
 
 A few examples:
-[Video: Scratching With Trains](http://www.flickr.com/photos/schill/6913710228/in/set-72157629776662919)
-[Video: Making A Drink](http://www.flickr.com/photos/schill/6916945452/in/set-72157629776662919)
-[Misc: Screenshot](http://www.flickr.com/photos/schill/6912563814/in/set-72157629776662919)
+* [Video: Scratching With Trains](http://www.flickr.com/photos/schill/6913710228/in/set-72157629776662919)
+* [Video: Making A Drink](http://www.flickr.com/photos/schill/6916945452/in/set-72157629776662919)
+* [Misc: Screenshot](http://www.flickr.com/photos/schill/6912563814/in/set-72157629776662919)
 
 Included:
 
