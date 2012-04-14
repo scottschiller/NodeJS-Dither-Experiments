@@ -155,7 +155,7 @@
 			if (err) {
 				console.log(err);
 			}
-			dither(imgData, inFile, 'frame' + padding + i);
+			dither(imgData, inFile, 'movie' + padding + i);
 			imgData = null;
 			callback();
 		});
